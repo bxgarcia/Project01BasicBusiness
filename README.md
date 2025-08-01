@@ -10,16 +10,16 @@ Pizza Night is a simple responsive website designed for a fictional pizza restau
 ## Wireframe
 
 ### Home
-<img src="./images/Wireframes/homewireframe.png">
+<img src="./images/homewireframe.png">
 
 ### Menu
-<img src="./images/Wireframes/menuwireframe.png">
+<img src="./images/menuwireframe.png">
 
 ### About
-<img src="./images//Wireframes/aboutwireframe.png">
+<img src="./images/aboutwireframe.png">
 
 ### Contact
-<img src="./images/Wireframes/contactwireframe.png">
+<img src="./images/contactwireframe.png">
 
 ## Website Screenshots
 
